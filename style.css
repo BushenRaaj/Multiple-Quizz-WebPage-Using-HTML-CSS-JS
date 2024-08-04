@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+
+.correct {
+    background-color: green !important;
+    color: WHite !important;
+}
+.incorrect {
+    background-color: red !important;
+    color: WHite !important;
+}
+.container {
+   
+   background-image:url(img/bgimg.jpg) ;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #008cba;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #005f5f;
+}
+
+
+
+
+
+
+
+
