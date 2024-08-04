@@ -14,7 +14,7 @@ body{
 }
 .container {
    
-   background-image:url(img/bgimg.jpg) ;
+   background-image:url(bgimg.jpg) ;
     padding: 20px;
     border: 2px solid black;
     border-radius: 5px;
